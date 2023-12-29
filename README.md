@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Soni</h1>
 <h3 align="left">A passionate MERN developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"></img>
+<img align="right" alt="Coding" width="350" src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"></img>
 
 <p align="left" style="margin-right:30">
 Dedicated to the artistry of developing robust and scalable web applications, I am an accomplished MERN (MongoDB, Express.js, React.js, Node.js) stack developer with a meticulous eye for detail and an unwavering commitment to delivering top-tier software solutions. 
